@@ -3,7 +3,7 @@ Description
 
 There are many people buying food at Food Court every day. The seats are limited, so many students can’t find places to sit during the lunch breaks. To know how many seats we need, you must analyze the customer traffic first.
 
-Since the limited seats will influence the number of incoming customers, you might need to create a virtual environment without seating condition. Assume you can cast a spell to remove all furniture and enlarge the ground so that everyone has a space. (They said that programming is like magic in fantasy, so
+Since the limited seats will influence the number of incoming customers, you might need to create a virtual environment without seating condition. Assume you can cast a spell to remove all furniture and enlarge the ground so that everyone has a space.
 
 For simplicity, you only need to look at the traffic of one day in each testcase. Also, everyone eats their food in the food court (they won’t ask for takeout.) In addition, people go to the food court in groups and the people in the same group buy their food from the same store.
 
