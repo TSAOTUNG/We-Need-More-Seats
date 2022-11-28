@@ -1,10 +1,3 @@
-//
-//  function.cpp
-//  HW05
-//
-//  Created by 曹心瞳 on 2022/5/18.
-//
-
 #include <iostream>
 #include <cstdlib>
 #include <stddef.h>
